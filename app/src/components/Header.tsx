@@ -8,9 +8,9 @@ export function Header() {
         <div className="header-content">
           <div className="header-left">
             <h1 className="header-title">
-              Zama Grid Selection
+              ZCraft
             </h1>
-            <span className="header-badge">FHE powered</span>
+            <span className="header-badge">Zama FHE powered</span>
           </div>
           <ConnectButton />
         </div>
