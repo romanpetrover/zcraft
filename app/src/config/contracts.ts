@@ -1,5 +1,5 @@
 // EncryptedGridSelection contract deployed on Sepolia
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000'; // Replace with deployed address
+export const CONTRACT_ADDRESS = '0x2b6575acC954b7179d38225e72C71Ac0526897d1'; // Replace with deployed address
 
 // ABI copied from deployments/sepolia/EncryptedGridSelection.json
 export const CONTRACT_ABI = [
